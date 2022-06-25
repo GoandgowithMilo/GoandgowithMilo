@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoandgowithMilo
-- 👀 I’m interested in c and c++ programming
+- 👀 I’m interested in working on challenging problems
 - 🌱 I’m currently doing a computer engineering degree
 - 📫 How to reach me ... jamesmilo42@gmail.com
 
