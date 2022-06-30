@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoandgowithMilo
+- 👋 Hi, I’m James
 - 👀 I’m interested in working on challenging problems
 - 🌱 I’m currently doing a computer engineering degree
 - 📫 How to reach me ... jamesmilo42@gmail.com
